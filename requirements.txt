@@ -1,0 +1,13 @@
+wget
+pandas
+numpy
+seaborn
+keras
+tensorflow
+joblib
+scikit-learn
+streamlit
+opencv-python-headless
+IPython
+Pillow
+plotly
